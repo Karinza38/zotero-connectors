@@ -1,4 +1,4 @@
-# Zotero Connectors
+ # Zotero Connectors
 
 [![Build Status](https://travis-ci.org/zotero/zotero-connectors.svg?branch=master)](https://travis-ci.org/zotero/zotero-connectors)
 
